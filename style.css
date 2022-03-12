@@ -1,0 +1,26 @@
+.btn{
+    box-shadow:4px 5px 27px aqua;
+    padding: 20px;
+    margin: 24px;
+    width: 100%;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:goldenrod ;
+color: hotpink;
+}
+body{
+    text-align: center;
+}
+canvas{
+  border: 5px solid firebrick;  
+  box-shadow: 5px 5px 20px saddlebrown;
+ border-radius: 30px;
+}
+.heading{
+    width: 100%;
+    font-size: medium;
+    margin: 0px;
+}
